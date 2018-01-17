@@ -68,6 +68,10 @@ body {
   letter-spacing: 15px;
 }
 
+.content p span.no-breaks {
+	white-space: nowrap;
+}
+
 .content .version-links {
   text-align: center;
 }
