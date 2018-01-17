@@ -1,0 +1,16 @@
+{
+  "files": {
+    "searchjson": "C:/Users/Ryan/Documents/TinellbianLanguages/stories/searching.json", 
+    "source": "C:/Users/Ryan/Documents/TinellbianLanguages/stories/data.txt", 
+    "template": "C:/Users/Ryan/Documents/TinellbianLanguages/stories/template.html"
+  }, 
+  "random words": {
+    "geminate": 1, 
+    "number": 0
+  }, 
+  "site": {
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/stories", 
+    "name": "Short Stories"
+  }, 
+  "links": []
+}

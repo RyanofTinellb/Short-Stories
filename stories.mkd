@@ -1,0 +1,6 @@
+<!DOCTYPE text/html>
+' &apost; <br>
+" &dblquote; <br>
+&rsquo; ' <br>
+&ldquo; '" <br>
+&rdquo; " <br>
