@@ -1,6 +1,5 @@
 <!DOCTYPE text/html>
-' &apost; <br>
-" &dblquote; <br>
-&rsquo; ' <br>
-&ldquo; '" <br>
-&rdquo; " <br>
+&rsquo; | ' | <br>
+&rdquo; | " | <br>
+&ldquo; | '" | <br>
+&#x2011; | - | <br>

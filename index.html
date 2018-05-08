@@ -1,80 +1,79 @@
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <title>
-      Short Stories
+        Short Stories, The final Frontier
     </title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="icon" type="image/png" href="favicon.png">
-    <script type="text/javascript">
+    <link rel="stylesheet" type="text/css" href="basic_style.css">
+                    <link rel="stylesheet" type="text/css" href="style.css">
+                    <link rel="icon" type="image/png" href="favicon.png"> <script type="text/javascript">
         if (window.location.href.indexOf("?") != -1) {
             window.location.href = "search.html" +
             window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";
         }
     </script>
-  </head>
-  <body>
+</head>
+
+<body>
     <div class="flex">
-      <div class="nav-pane">
-        <ul>
-                  <li class="link"><a href="http://www.tinellb.com">&uarr; Main Page</a></li>
-                  <li class="link"><a href="http://grammar.tinellb.com">Grammar &rarr;</a></li>
-                </ul>
-                <ul><li class="normal">Short Stories</li>
+        <div class="nav-pane">
+            <ul><li class="normal">Short Stories</li>
+                <div class="javascript">
                   <form id="search">
                     <li class="search">
                       <input type="text" name="term"></input> <button type="submit">Search</button>
                     </li>
                   </form>
+                </div>
                 <ul class="level-1"><li><a href="detsora'sdiary.html">Detsora&rsquo;s Diary</a></li>
 </ul>
-</ul>
-<p>Other Versions:</p>
-<ul class="level-1"></ul><ul>
+
                 </ul>
-      </div>
-      <div class="content">
-        <div class="nav-footer">
-          <div>
-<a href="http://www.tinellb.com">&uarr; Go to Main Page
+        </div>
+        <div class="content">
+            <div class="nav-footer">
+                <div>
+<a href="http://www.tinellb.com">&uarr; Go to Main Page</a>
 </div>
 <div>
 <a href="detsora'sdiary.html">Next page &rarr;</a>
 </div>
 
-        </div>
-        <h1 id="shortstories">Short Stories</h1>
+            </div>
+            <h1 id="shortstories">Short Stories</h1>
 <p>This is a collection of short stories I have written.</p>
 
-        <div class="toc">
-          
-          <p><br></p>
-        </div>
-        <div class="nav-footer">
-          <div>
-<a href="http://www.tinellb.com">&uarr; Go to Main Page
+            <div class="toc">
+                
+                <p><br></p>
+            </div>
+            <div class="nav-footer">
+                <div>
+<a href="http://www.tinellb.com">&uarr; Go to Main Page</a>
 </div>
 <div>
 <a href="detsora'sdiary.html">Next page &rarr;</a>
 </div>
 
+            </div>
+            <div class="copyright">
+                <span class="no-breaks">&copy;2018 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span> <span class="no-breaks">Last updated: Wednesday, January 17th, 2018.
+            </div>
         </div>
-        <div class="copyright">
-          &copy;2018&nbsp;Ryan&nbsp;Eakins. Last&nbsp;updated:&nbsp;Wednesday,&nbsp;January&nbsp;17th,&nbsp;2018.
-        </div>
-      </div>
     </div>
     <script type="text/javascript">
-      document.getElementById('search').style.display = 'list-item';
-      document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
-      var href = window.location.href;
-      var index = href.indexOf('#')
-      if (index != -1 && href.substring(0, index).indexOf(href.substring(index + 1)) == -1) {
-        var span = document.getElementById(href.substring(index + 1));
-        span.innerHTML = "&rarr; ";
-      }
+        document.getElementById('search').style.display = 'list-item';
+        document.getElementsByClassName('level-1')[0].style.paddingLeft = "0em";
+        var href = window.location.href;
+        var index = href.indexOf('#')
+        if (index != -1 && href.substring(0, index).indexOf(href.substring(index + 1)) == -1) {
+            var span = document.getElementById(href.substring(index + 1));
+            span.innerHTML = "&rarr; ";
+        }
     </script>
-  </body>
+</body>
+
 </html>
