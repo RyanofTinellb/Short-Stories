@@ -1,7 +1,7 @@
 {
   "files": {
     "searchjson": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json", 
-    "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.json", 
+    "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.txt", 
     "template": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
   }, 
   "current": {
@@ -9,7 +9,7 @@
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd", 
     "fontsize": 18, 
     "page": [
-      "Detsora&rsquo;s Diary", 
+      "", 
       ""
     ], 
     "language": "hl"
