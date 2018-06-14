@@ -5,14 +5,14 @@
     "template": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
   }, 
   "current": {
-    "position": "4.18", 
+    "position": "1.0", 
     "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd", 
     "fontsize": 18, 
     "page": [
       "", 
       ""
     ], 
-    "language": "hl"
+    "language": "en"
   }, 
   "site": {
     "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories", 
