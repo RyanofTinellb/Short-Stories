@@ -1,22 +1,22 @@
 {
-  "files": {
-    "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json", 
-    "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.txt", 
-    "template": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
-  }, 
   "current": {
-    "position": "1.0", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd", 
-    "fontsize": 18, 
+    "position": "1.0",
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd",
+    "fontsize": 18,
     "page": [
-      "", 
+      "",
       ""
-    ], 
+    ],
     "language": "en"
-  }, 
+  },
   "site": {
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories", 
-    "name": "Short Stories"
-  }, 
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories",
+    "name": "Short Stories",
+    "files": {
+      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json",
+      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.txt",
+      "template": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
+    }
+  },
   "links": []
 }
