@@ -14,7 +14,7 @@
     "name": "Short Stories",
     "files": {
       "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json",
-      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.txt",
+      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.json",
       "template": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
     }
   },
