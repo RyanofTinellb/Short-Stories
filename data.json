@@ -1,13 +1,14 @@
 {
-    "date": "2018-05-13", 
+    "name": "Short Stories", 
     "text": [
-        "This is a collection of short stories I have written.\n"
+        "This is a collection of one short story I have written.\n"
     ], 
     "flatname": {
         "score": 0, 
         "name": "shortstories"
     }, 
-    "name": "Short Stories", 
+    "date": "2018-12-06", 
+    "position": "1.0", 
     "children": [
         {
             "date": "2018-05-08", 
@@ -18,7 +19,8 @@
                 "score": 129140163, 
                 "name": "detsorasdiary"
             }, 
-            "name": "Detsora&rsquo;s Diary"
+            "name": "Detsora&rsquo;s Diary", 
+            "position": "1.0"
         }
     ]
 }

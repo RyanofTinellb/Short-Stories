@@ -1,18 +1,25 @@
 {
   "current": {
-    "position": "1.0",
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd",
-    "fontsize": 18,
-    "language": "en"
-  },
+    "position": "1.0", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd", 
+    "fontsize": 18, 
+    "language": "en: English"
+  }, 
   "site": {
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories",
-    "name": "Short Stories",
     "files": {
-      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json",
-      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.json",
+      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.json", 
+      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json", 
       "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
-    }
-  },
-  "links": {}
+    }, 
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories", 
+    "name": "Short Stories"
+  }, 
+  "links": {}, 
+  "history": [
+    [], 
+    [
+      "Detsora&rsquo;s Diary"
+    ], 
+    []
+  ]
 }
