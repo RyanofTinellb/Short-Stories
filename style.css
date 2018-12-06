@@ -28,6 +28,10 @@ p {
     margin: 1em;
 }
 
+div.content div.main-contents p {
+	text-align: justify;
+}
+
 .content p.example,
 .content p.example_no_lines,
 .toc p {
