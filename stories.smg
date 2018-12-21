@@ -1,25 +1,30 @@
 {
   "current": {
     "position": "1.0", 
-    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/stories.mkd", 
+    "markdown": "C:/Users/Ryan/Documents/TinellbianLanguages/writings/stories.mkd", 
     "fontsize": 18, 
     "language": "en: English"
   }, 
   "site": {
     "files": {
-      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/data.json", 
-      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/searching.json", 
-      "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories/template.html"
+      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/writings/data.json", 
+      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/writings/searching.json", 
+      "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/writings/template.html"
     }, 
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/shortstories", 
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/writings", 
     "name": "Short Stories"
   }, 
   "links": {}, 
   "history": [
-    [], 
+    [
+      "Other People&rsquo;s Writing"
+    ], 
+    [
+      "Other People&rsquo;s Writing", 
+      "Metamorphosis"
+    ], 
     [
       "Detsora&rsquo;s Diary"
-    ], 
-    []
+    ]
   ]
 }
