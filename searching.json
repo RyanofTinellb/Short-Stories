@@ -7402,9 +7402,9 @@
                 920
             ]
         }, 
-        "endless": {
-            "3": [
-                333
+        "[this": {
+            "0": [
+                0
             ]
         }, 
         "mingle": {
@@ -10589,9 +10589,10 @@
                 654
             ]
         }, 
-        "black": {
+        "believing": {
             "3": [
-                333
+                367, 
+                786
             ]
         }, 
         "associated": {
@@ -14491,10 +14492,9 @@
                 905
             ]
         }, 
-        "believing": {
+        "black": {
             "3": [
-                367, 
-                786
+                333
             ]
         }, 
         "enthusiasm": {
@@ -15413,9 +15413,9 @@
                 252
             ]
         }, 
-        "melan": {
-            "3": [
-                1327
+        "[there": {
+            "2": [
+                59
             ]
         }, 
         "eventually": {
@@ -17605,9 +17605,6 @@
                 915, 
                 1000, 
                 1006
-            ], 
-            "2": [
-                59
             ]
         }, 
         "sides": {
@@ -19027,9 +19024,9 @@
                 1356
             ]
         }, 
-        "recognise": {
+        "melan": {
             "3": [
-                252
+                1327
             ]
         }, 
         "fresh": {
@@ -24892,6 +24889,11 @@
                 1351
             ]
         }, 
+        "[": {
+            "3": [
+                60
+            ]
+        }, 
         "startling": {
             "3": [
                 795
@@ -26679,6 +26681,11 @@
                 394, 
                 586, 
                 805
+            ]
+        }, 
+        "endless": {
+            "3": [
+                333
             ]
         }, 
         "we're": {
@@ -28785,9 +28792,6 @@
                 45, 
                 51
             ], 
-            "0": [
-                0
-            ], 
             "3": [
                 63, 
                 67, 
@@ -29801,6 +29805,11 @@
         "slide": {
             "3": [
                 89
+            ]
+        }, 
+        "[the": {
+            "1": [
+                1
             ]
         }, 
         "shaking": {
@@ -33827,6 +33836,11 @@
                 919
             ]
         }, 
+        "recognise": {
+            "3": [
+                252
+            ]
+        }, 
         "strangeness": {
             "3": [
                 154
@@ -35179,8 +35193,8 @@
         "otherpeople'swriting/metamorphosis.html"
     ], 
     "sentences": [
-        "This is a collection of one short story I have written", 
-        "The classroom was quiet the only sound the scratching of styli across slate and the soft sussurus of cloth as the teacher circulated the room", 
+        "[This is a collection of one short story I have written", 
+        "[The classroom was quiet the only sound the scratching of styli across slate and the soft sussurus of cloth as the teacher circulated the room", 
         "A shadow appeared above Detsora&rsquo;s work followed by a finger seemingly from the sky", 
         "&ldquo;What is this scribble here", 
         "&rdquo; said the owner of the finger", 
@@ -35238,8 +35252,8 @@
         "Who else was there to be true to", 
         "With a single motion she erased her slate and began again", 
         "With shaking hands she formed the glyphs for her real name D&#x2011;E&#x2011;T&#x2011;S&#x2011;O&#x2011;R&#x2011;A", 
-        "There are some stories I&rsquo;m putting here just so I can read them at the fontsize I want", 
-        "", 
+        "[There are some stories I&rsquo;m putting here just so I can read them at the fontsize I want", 
+        "[", 
         "The Project Gutenberg EBook of Metamorphosis by Franz Kafka", 
         "Translated by David Wyllie", 
         "This eBook is for the use of anyone anywhere at no cost and with", 
