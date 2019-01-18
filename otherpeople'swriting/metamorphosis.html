@@ -7,32 +7,20 @@
     <title>
         Metamorphosis
     </title>
-    <link rel="stylesheet" type="text/css" href="../basic_style.css">
-<link rel="stylesheet" type="text/css" href="../style.css">
-<link rel="icon" type="image/png" href="../favicon.png">
- <script type="text/javascript">if (window.location.href.indexOf("?") != -1) {window.location.href = "../search.html" +window.location.href.substring(window.location.href.indexOf("?")) + "&andOr=and";}</script>
+    {stylesheet}     <script type="text/javascript">
+let href = window.location.href;
+if (href.indexOf("?") != -1) {
+    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+    window.location.href = `../search.html?${term}&andOr=and`;
+}
+</script>
+
 </head>
 
 <body>
     <div class="flex">
         <div class="nav-pane">
-            <label>
-  <input type="checkbox" class="menu">
-  <ul>
-  <li><a href="../index.html">Short Stories</a></li>
-    <div class="javascript">
-      <form id="search">
-        <li class="search">
-          <input type="text" name="term">
-          <button type="submit">Search</button>
-        </li>
-      </form>
-    </div>
-   <div class="links">  <ul class="level-1"><li><a href="../detsora'sdiary.html">Detsora&rsquo;s Diary</a></li>
-<li><a href="index.html">Other People&rsquo;s Writing</a></li>
-<ul class="level-2"><li class="normal">Metamorphosis</li>
-</ul>
-   </div></ul></label>
+            {family-links}
         </div>
         <div class="content">
             <div class="nav-footer"><div>
@@ -479,8 +467,7 @@
 <a href="../index.html">Return to Menu &uarr;</a>
 </div>
 </div>
-            <div class="copyright"><span class="no-breaks">&copy;2017-2018 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</span>
-<span class="no-breaks">Last updated: Friday, December 21st, 2018.</span></div>
+            {copyright}
         </div>
     </div>
     <script type="text/javascript">
