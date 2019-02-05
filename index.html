@@ -7,20 +7,36 @@
     <title>
         Short Stories
     </title>
-    {stylesheet}     <script type="text/javascript">
+    <link rel="stylesheet" type="text/css" href="basic_style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+     <script type="text/javascript">
 let href = window.location.href;
 if (href.indexOf("?") != -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `search.html?${term}&andOr=and`;
 }
 </script>
+ <link rel="icon" type="image/png" href="favicon.png">
 
 </head>
 
 <body>
     <div class="flex">
         <div class="nav-pane">
-            {family-links}
+            <label>
+  <input type="checkbox" class="menu">
+  <ul>
+  <li class="normal">Short Stories</li>
+    <div class="javascript">
+      <form id="search">
+        <li class="search">
+          <input type="text" name="term">
+          <button type="submit">Search</button>
+        </li>
+      </form>
+    </div>
+   <div class="links-root">  <ul class="level-1"><li><a href="detsora'sdiary.html">Detsora&rsquo;s Diary</a></li>
+   </div></ul></label>
         </div>
         <div class="content">
             <div class="nav-footer"><div>
@@ -43,7 +59,14 @@ if (href.indexOf("?") != -1) {
 <a href="detsora'sdiary.html">Next page &rarr;</a>
 </div>
 </div>
-            {copyright}
+            <div class="copyright">
+                <span class="no-breaks">
+                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
+                </span>
+                <span class="copyright">
+                    Last updated: Tuesday, February 5th, 2019.
+                </span>
+            </div>
         </div>
     </div>
     <script type="text/javascript">
