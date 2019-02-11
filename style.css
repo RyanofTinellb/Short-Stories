@@ -2,6 +2,10 @@ body {
     font-family: georgia;
 }
 
+highlight {
+    background-color: #FF0;
+}
+
 p {
     margin-bottom: 1em;
     padding-bottom: 1em;

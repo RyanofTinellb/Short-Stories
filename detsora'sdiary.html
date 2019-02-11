@@ -11,7 +11,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
      <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `search.html?${term}&andOr=and`;
 }
@@ -37,6 +37,7 @@ if (href.indexOf("?") != -1) {
     </div>
    <div class="links">  <ul class="level-1"><li class="normal">Detsora&rsquo;s Diary</li>
 <li><a href="otherpeopleswriting/index.html">Other People's Writing</a></li>
+</ul>
    </div></ul></label>
         </div>
         <div class="content">
@@ -57,8 +58,8 @@ if (href.indexOf("?") != -1) {
 <p>&ldquo;That cannot be your name. We do not accept made&#x2011;up names here. Your name is here, on your nameplate.&rdquo; A tap on the plaque set just above her desk. &rdquo;Datirra. A lovely name. You should be proud of it.&rdquo;</p>
 <p>&ldquo;Yes, sensei.&rdquo; With some difficulty, Detsora copied the plaque onto her slate. She was still learning script, and yet she was always expected to keep up. She continued with her interrupted exercise as the teacher nodded in approval and moved on.</p>
 <p>It was the first day of the week. Detsora couldn&rsquo;t completely follow the text she was copying. But it <em>was</em> the first day of the week, so she knew what it had to be:</p>
-<p><em>&ldquo;I swear to follow the Queen, who shares the glory of Sa&rsquo;imi with the world.&rdquo;</em></p>
-<p>Sa&rsquo;imi, the lightbringer, the name given to the divine force of the Sun when high in the sky. Her father had taught her to honour the Lord of the Hunt and the Lady of the Hearth, but these cthonic deities were gone now, along with her father. The new teaching was that the Divine Parents had only ever been stories. Maybe that&rsquo;s all her father had been, also.</p>
+<p><em>&ldquo;I swear to follow the Queen, who shares the glory of Caemi with the world.&rdquo;</em></p>
+<p>Caemi, the lightbringer, the name given to the divine force of the Sun when high in the sky. Her father had taught her to honour the Lord of the Hunt and the Lady of the Hearth, but these cthonic deities were gone now, along with her father. The new teaching was that the Divine Parents had only ever been stories. Maybe that&rsquo;s all her father had been, also.</p>
 <p><em>&ldquo;I swear to bring value to my country, raising weapons in war and lowering them in peace.&rdquo;</em></p>
 <p>Her sister and brother had begun teaching her to fight, to protect herself. She had longed to grow up and join the Defence alongside her elder siblings, but that was no longer possible. Defence had fallen. They had let go of their weapons in wartime, and there was no one left to pick them up again.</p>
 <p><em>&ldquo;I swear to uphold the traditions of this town, and to assist the administrators whenever I am required.&rdquo;</em></p>
@@ -80,7 +81,7 @@ if (href.indexOf("?") != -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Tuesday, February 5th, 2019.
+                    Last updated: Tuesday, February 12th, 2019.
                 </span>
             </div>
         </div>
@@ -89,7 +90,20 @@ if (href.indexOf("?") != -1) {
         for (elt of document.getElementsByClassName('javascript')) {
             elt.style.display = "block";
         }
+        let terms = window.location.href.split("?highlight=")[1];
+        terms = terms.split("+");
+        let loc = document.getElementsByClassName("main-contents")[0];
+        let text = loc.innerHTML;
+        for (term of terms) {
+            let rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+            term = term.charAt(0).toUpperCase() + term.slice(1);
+            rep = "<highlight>" + term + "</highlight>";
+            text = text.split(term).join(rep);
+        }
+        loc.innerHTML = text;
     </script>
 </body>
 
 </html>
+
