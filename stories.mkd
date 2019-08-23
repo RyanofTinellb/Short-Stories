@@ -1,5 +1,10 @@
 <!DOCTYPE text/html>
-&rsquo; | ' | <br>
-&rdquo; | " | <br>
-&ldquo; | '" | <br>
-&#x2011; | - | <br>
+’ | ' | s<br>
+” | " | s<br>
+“ | '" | s<br>
+‑ | - | s<br>
+… | ... | s<br>
+
+
+
+
