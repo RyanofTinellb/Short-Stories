@@ -1,6 +1,27 @@
-<!DOCTYPE text/html>
-’ | ' | s<br>
-” | " | s<br>
-“ | '" | s<br>
-‑ | - | s<br>
-… | ... | s<br>
+[
+  {
+    "markup": "’",
+    "markdown": "'",
+    "display_markdown": true
+  },
+  {
+    "markup": "”",
+    "markdown": "\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "“",
+    "markdown": "'\"",
+    "display_markdown": true
+  },
+  {
+    "markup": "‑",
+    "markdown": "-",
+    "display_markdown": true
+  },
+  {
+    "markup": "…",
+    "markdown": "...",
+    "display_markdown": true
+  }
+]
