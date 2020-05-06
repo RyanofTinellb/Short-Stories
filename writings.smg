@@ -21,9 +21,10 @@
         "page404": "",
         "index": "C:/Users/Ryan/TinellbianLanguages/writings/searching.json"
       },
-      "wordlist": ""
+      "wordlist": "",
+      "sections": {}
     },
-    "destination": "C:/Users/Ryan/TinellbianLanguages/writings",
+    "directory": "C:/Users/Ryan/TinellbianLanguages/writings",
     "name": "Short Stories"
   },
   "links": {},
@@ -53,5 +54,18 @@
     [
       "Detsora’s Diary"
     ]
+  ],
+  "markdown": "",
+  "styles": {
+    "default": {
+      "group": "default",
+      "font": "Courier New Baltic",
+      "size": 18,
+      "offset": "subscript",
+      "colour": "#000000"
+    }
+  },
+  "tabs": [
+    []
   ]
 }
