@@ -1,0 +1,75 @@
+{
+  "current": {
+    "position": "1.0",
+    "markdown": "C:/Users/Ryan/TinellbianLanguages/writings/markdown.mkd",
+    "fontsize": 18,
+    "language": "en: English"
+  },
+  "site": {
+    "directory": "C:/Users/Ryan/TinellbianLanguages/writings",
+    "name": "Short Stories"
+  },
+  "links": {},
+  "history": [
+    [
+      "Other People&rsquo;s Writing"
+    ],
+    [
+      "Other People&rsquo;s Writing",
+      "Metamorphosis"
+    ],
+    [
+      "Detsora&rsquo;s Diary"
+    ],
+    [],
+    [
+      "Other People's Writing"
+    ],
+    [
+      "Other People's Writing",
+      "The Mysterious Island"
+    ],
+    [
+      "Detsora&rsquo;s Diary"
+    ],
+    [],
+    [
+      "Detsora’s Diary"
+    ]
+  ],
+  "markdown": "",
+  "styles": {
+    "default": {
+      "end": "\n",
+      "font": "Garamond",
+      "size": 15,
+      "block": "disabled"
+    },
+    "message": {
+      "key": "M",
+      "size": 12,
+      "colour": "#ff0000"
+    }
+  },
+  "entries": [
+    []
+  ],
+  "files": {
+    "source": "C:/Users/Ryan/TinellbianLanguages/writings/data.src",
+    "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/writings/searching.json",
+    "main_template": "C:/Users/Ryan/TinellbianLanguages/writings/page.tpl",
+    "wholepage": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/writings/wholepage.tpl",
+      "file": "C:/Users/Ryan/TinellbianLanguages/writings/wholepage.html"
+    },
+    "search": {
+      "template": "C:/Users/Ryan/TinellbianLanguages/writings/search.tpl",
+      "template404": "",
+      "page": "C:/Users/Ryan/TinellbianLanguages/writings/search.html",
+      "page404": "",
+      "index": "C:/Users/Ryan/TinellbianLanguages/writings/searching.json"
+    },
+    "wordlist": "",
+    "sections": {}
+  }
+}

@@ -1,0 +1,1994 @@
+{
+  "terms": {
+    "this": {
+      "0": [
+        0
+      ],
+      "2": [
+        12,
+        16,
+        20,
+        29
+      ]
+    },
+    "is": {
+      "0": [
+        0
+      ],
+      "1": [
+        2
+      ],
+      "2": [
+        11,
+        49
+      ],
+      "3": [
+        50,
+        57
+      ]
+    },
+    "an": {
+      "0": [
+        0
+      ],
+      "1": [
+        10
+      ],
+      "2": [
+        19,
+        25
+      ],
+      "3": [
+        50
+      ]
+    },
+    "encyclopedia": {
+      "0": [
+        0
+      ]
+    },
+    "of": {
+      "0": [
+        0
+      ],
+      "1": [
+        3,
+        8,
+        9,
+        10
+      ],
+      "2": [
+        12,
+        13,
+        15,
+        16,
+        30
+      ],
+      "3": [
+        50,
+        51
+      ],
+      "4": [
+        68
+      ]
+    },
+    "knowledge": {
+      "0": [
+        0
+      ]
+    },
+    "tinellb": {
+      "0": [
+        0
+      ],
+      "2": [
+        11
+      ]
+    },
+    "subatomic": {
+      "1": [
+        1
+      ]
+    },
+    "particles": {
+      "1": [
+        1
+      ]
+    },
+    "can": {
+      "1": [
+        1
+      ],
+      "4": [
+        68
+      ]
+    },
+    "be": {
+      "1": [
+        1
+      ],
+      "3": [
+        57
+      ]
+    },
+    "divided": {
+      "1": [
+        1
+      ]
+    },
+    "into": {
+      "1": [
+        1
+      ],
+      "2": [
+        15,
+        23,
+        28
+      ]
+    },
+    "material": {
+      "1": [
+        1
+      ]
+    },
+    "fermions": {
+      "1": [
+        1,
+        2
+      ]
+    },
+    "and": {
+      "1": [
+        1,
+        3,
+        6,
+        8,
+        9
+      ],
+      "2": [
+        13,
+        14,
+        26,
+        28,
+        29
+      ],
+      "3": [
+        50,
+        51
+      ],
+      "4": [
+        68
+      ]
+    },
+    "the": {
+      "1": [
+        1,
+        2,
+        3,
+        6,
+        8,
+        9,
+        10
+      ],
+      "2": [
+        11,
+        12,
+        13,
+        15,
+        16,
+        18,
+        19,
+        23,
+        24,
+        26,
+        27,
+        29,
+        30
+      ],
+      "3": [
+        50
+      ],
+      "4": [
+        68
+      ]
+    },
+    "energy": {
+      "1": [
+        1
+      ]
+    },
+    "like": {
+      "1": [
+        1
+      ]
+    },
+    "bosons": {
+      "1": [
+        1
+      ]
+    },
+    "fundamental": {
+      "1": [
+        2
+      ]
+    },
+    "particle": {
+      "1": [
+        2,
+        9
+      ]
+    },
+    "making": {
+      "1": [
+        2
+      ]
+    },
+    "up": {
+      "1": [
+        2,
+        5,
+        7
+      ]
+    },
+    "all": {
+      "1": [
+        2
+      ]
+    },
+    "darill": {
+      "1": [
+        2
+      ]
+    },
+    "these": {
+      "1": [
+        3
+      ],
+      "3": [
+        58
+      ]
+    },
+    "combine": {
+      "1": [
+        3
+      ]
+    },
+    "to": {
+      "1": [
+        3
+      ],
+      "2": [
+        19
+      ],
+      "3": [
+        57
+      ]
+    },
+    "make": {
+      "1": [
+        3
+      ]
+    },
+    "four": {
+      "1": [
+        3
+      ],
+      "3": [
+        51
+      ]
+    },
+    "generations": {
+      "1": [
+        3
+      ],
+      "2": [
+        17
+      ]
+    },
+    "quarks": {
+      "1": [
+        3,
+        4,
+        8
+      ]
+    },
+    "corresponding": {
+      "1": [
+        3,
+        6
+      ],
+      "3": [
+        58
+      ]
+    },
+    "leptons": {
+      "1": [
+        3,
+        4
+      ]
+    },
+    "hr": {
+      "1": [
+        4
+      ]
+    },
+    "generation": {
+      "1": [
+        4,
+        6,
+        9
+      ]
+    },
+    "+⅔": {
+      "1": [
+        4,
+        6
+      ]
+    },
+    "⅓": {
+      "1": [
+        4,
+        6
+      ],
+      "4": [
+        72
+      ]
+    },
+    "h": {
+      "1": [
+        5
+      ],
+      "3": [
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    "i": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "unique": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "down": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "dream": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "electron": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "ii": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "central": {
+      "1": [
+        5
+      ]
+    },
+    "charm": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "sprial": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "strange": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "muon": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "iii": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "top": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "truth": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "bottom": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "beauty": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "tau": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "iv": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "left": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "love": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "right": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "rhyme": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "yaon": {
+      "1": [
+        5,
+        7
+      ]
+    },
+    "each": {
+      "1": [
+        6,
+        9
+      ],
+      "3": [
+        51,
+        58
+      ]
+    },
+    "shows": {
+      "1": [
+        6
+      ]
+    },
+    "charged": {
+      "1": [
+        6
+      ]
+    },
+    "quark": {
+      "1": [
+        6
+      ]
+    },
+    "its": {
+      "1": [
+        6
+      ],
+      "2": [
+        23
+      ]
+    },
+    "counterpart": {
+      "1": [
+        6
+      ]
+    },
+    "lepton": {
+      "1": [
+        6,
+        9
+      ]
+    },
+    "family": {
+      "1": [
+        6
+      ]
+    },
+    "centre": {
+      "1": [
+        7
+      ]
+    },
+    "both": {
+      "1": [
+        8
+      ]
+    },
+    "prosaic": {
+      "1": [
+        8
+      ]
+    },
+    "poetic": {
+      "1": [
+        8
+      ]
+    },
+    "names": {
+      "1": [
+        8
+      ]
+    },
+    "are": {
+      "1": [
+        8
+      ],
+      "3": [
+        51
+      ]
+    },
+    "included": {
+      "1": [
+        8
+      ]
+    },
+    "consists": {
+      "1": [
+        9
+      ]
+    },
+    "basic": {
+      "1": [
+        9
+      ]
+    },
+    "with": {
+      "1": [
+        9
+      ],
+      "4": [
+        68
+      ]
+    },
+    "charge": {
+      "1": [
+        9,
+        10
+      ]
+    },
+    "a": {
+      "1": [
+        9
+      ],
+      "2": [
+        11,
+        12,
+        15,
+        16,
+        23
+      ],
+      "3": [
+        50,
+        51,
+        57
+      ],
+      "4": [
+        68
+      ]
+    },
+    "neutrino": {
+      "1": [
+        9
+      ]
+    },
+    "every": {
+      "1": [
+        10
+      ]
+    },
+    "fermion": {
+      "1": [
+        10
+      ]
+    },
+    "has": {
+      "1": [
+        10
+      ],
+      "3": [
+        50,
+        51
+      ]
+    },
+    "antiparticle": {
+      "1": [
+        10
+      ]
+    },
+    "opposite": {
+      "1": [
+        10
+      ]
+    },
+    "within": {
+      "2": [
+        11
+      ]
+    },
+    "universe": {
+      "2": [
+        11,
+        23,
+        49
+      ]
+    },
+    "named": {
+      "2": [
+        11,
+        20
+      ]
+    },
+    "there": {
+      "2": [
+        11,
+        12,
+        14
+      ],
+      "3": [
+        51
+      ]
+    },
+    "planet": {
+      "2": [
+        11,
+        13
+      ]
+    },
+    "ptoko": {
+      "2": [
+        11,
+        27,
+        49
+      ]
+    },
+    "arose": {
+      "2": [
+        12
+      ]
+    },
+    "on": {
+      "2": [
+        12,
+        13,
+        25,
+        27
+      ]
+    },
+    "world": {
+      "2": [
+        12,
+        15,
+        18,
+        22,
+        25
+      ]
+    },
+    "race": {
+      "2": [
+        12,
+        13
+      ]
+    },
+    "humanoids": {
+      "2": [
+        12
+      ]
+    },
+    "ptokan": {
+      "2": [
+        12,
+        28,
+        34,
+        35,
+        36
+      ]
+    },
+    "over": {
+      "2": [
+        13
+      ]
+    },
+    "millions": {
+      "2": [
+        13
+      ]
+    },
+    "years": {
+      "2": [
+        13
+      ]
+    },
+    "their": {
+      "2": [
+        13,
+        14,
+        18,
+        21,
+        28
+      ],
+      "3": [
+        58
+      ]
+    },
+    "evolved": {
+      "2": [
+        13,
+        26,
+        28
+      ]
+    },
+    "became": {
+      "2": [
+        13
+      ]
+    },
+    "dominant": {
+      "2": [
+        13
+      ]
+    },
+    "force": {
+      "2": [
+        13
+      ]
+    },
+    "had": {
+      "2": [
+        14,
+        15
+      ]
+    },
+    "been": {
+      "2": [
+        14
+      ]
+    },
+    "many": {
+      "2": [
+        14
+      ]
+    },
+    "conflicts": {
+      "2": [
+        14
+      ]
+    },
+    "small": {
+      "2": [
+        14
+      ]
+    },
+    "large": {
+      "2": [
+        14
+      ]
+    },
+    "throughout": {
+      "2": [
+        14
+      ]
+    },
+    "history": {
+      "2": [
+        14
+      ]
+    },
+    "one": {
+      "2": [
+        15,
+        23,
+        24
+      ]
+    },
+    "particularly": {
+      "2": [
+        15
+      ]
+    },
+    "bloody": {
+      "2": [
+        15
+      ]
+    },
+    "war": {
+      "2": [
+        15,
+        16,
+        22
+      ]
+    },
+    "much": {
+      "2": [
+        15
+      ]
+    },
+    "population": {
+      "2": [
+        15
+      ]
+    },
+    "brought": {
+      "2": [
+        15
+      ]
+    },
+    "it": {
+      "2": [
+        15
+      ]
+    },
+    "survivors": {
+      "2": [
+        16
+      ]
+    },
+    "were": {
+      "2": [
+        16,
+        24
+      ]
+    },
+    "ruled": {
+      "2": [
+        16
+      ]
+    },
+    "by": {
+      "2": [
+        16,
+        21,
+        26,
+        29
+      ]
+    },
+    "single": {
+      "2": [
+        16
+      ]
+    },
+    "monarch": {
+      "2": [
+        16
+      ]
+    },
+    "passed": {
+      "2": [
+        17
+      ]
+    },
+    "people": {
+      "2": [
+        18,
+        27
+      ]
+    },
+    "rebuilt": {
+      "2": [
+        18
+      ]
+    },
+    "shattered": {
+      "2": [
+        18
+      ]
+    },
+    "newest": {
+      "2": [
+        19
+      ]
+    },
+    "ruler": {
+      "2": [
+        19
+      ]
+    },
+    "queen": {
+      "2": [
+        19
+      ]
+    },
+    "loren": {
+      "2": [
+        19
+      ]
+    },
+    "decided": {
+      "2": [
+        19
+      ]
+    },
+    "create": {
+      "2": [
+        19
+      ]
+    },
+    "international": {
+      "2": [
+        19
+      ]
+    },
+    "language": {
+      "2": [
+        19,
+        20,
+        21
+      ]
+    },
+    "promote": {
+      "2": [
+        19
+      ]
+    },
+    "peace": {
+      "2": [
+        19,
+        27
+      ]
+    },
+    "amongst": {
+      "2": [
+        19
+      ]
+    },
+    "her": {
+      "2": [
+        19
+      ]
+    },
+    "subjects": {
+      "2": [
+        19
+      ]
+    },
+    "she": {
+      "2": [
+        20
+      ]
+    },
+    "lulani": {
+      "2": [
+        20,
+        26,
+        29,
+        31,
+        32
+      ]
+    },
+    "after": {
+      "2": [
+        20
+      ]
+    },
+    "herself": {
+      "2": [
+        20
+      ]
+    },
+    "despite": {
+      "2": [
+        21
+      ]
+    },
+    "shared": {
+      "2": [
+        21
+      ]
+    },
+    "as": {
+      "2": [
+        21
+      ],
+      "3": [
+        58
+      ]
+    },
+    "more": {
+      "2": [
+        21
+      ]
+    },
+    "time": {
+      "2": [
+        21,
+        23,
+        29
+      ]
+    },
+    "went": {
+      "2": [
+        21
+      ]
+    },
+    "fractures": {
+      "2": [
+        21
+      ]
+    },
+    "again": {
+      "2": [
+        21
+      ]
+    },
+    "showed": {
+      "2": [
+        21
+      ]
+    },
+    "between": {
+      "2": [
+        21
+      ]
+    },
+    "nations": {
+      "2": [
+        21
+      ]
+    },
+    "another": {
+      "2": [
+        22
+      ]
+    },
+    "ensued": {
+      "2": [
+        22
+      ]
+    },
+    "great": {
+      "2": [
+        23
+      ]
+    },
+    "weapon": {
+      "2": [
+        23
+      ]
+    },
+    "was": {
+      "2": [
+        23,
+        26,
+        29,
+        30
+      ]
+    },
+    "created": {
+      "2": [
+        23
+      ]
+    },
+    "that": {
+      "2": [
+        23,
+        27
+      ]
+    },
+    "tore": {
+      "2": [
+        23
+      ]
+    },
+    "apart": {
+      "2": [
+        23
+      ]
+    },
+    "space": {
+      "2": [
+        23
+      ]
+    },
+    "flinging": {
+      "2": [
+        23
+      ]
+    },
+    "victims": {
+      "2": [
+        23
+      ]
+    },
+    "far": {
+      "2": [
+        23
+      ]
+    },
+    "out": {
+      "2": [
+        23
+      ]
+    },
+    "such": {
+      "2": [
+        24
+      ]
+    },
+    "group": {
+      "2": [
+        24
+      ]
+    },
+    "fezhl": {
+      "2": [
+        24,
+        26,
+        34,
+        35,
+        36
+      ]
+    },
+    "they": {
+      "2": [
+        25
+      ]
+    },
+    "found": {
+      "2": [
+        25
+      ]
+    },
+    "themselves": {
+      "2": [
+        25
+      ]
+    },
+    "empty": {
+      "2": [
+        25
+      ]
+    },
+    "tongue": {
+      "2": [
+        26
+      ]
+    },
+    "independently": {
+      "2": [
+        26
+      ]
+    },
+    "from": {
+      "2": [
+        26
+      ]
+    },
+    "later": {
+      "2": [
+        26
+      ]
+    },
+    "heavily": {
+      "2": [
+        26
+      ]
+    },
+    "influenced": {
+      "2": [
+        26
+      ]
+    },
+    "zhaladi": {
+      "2": [
+        26,
+        42,
+        43,
+        44
+      ]
+    },
+    "dialects": {
+      "2": [
+        26
+      ]
+    },
+    "remained": {
+      "2": [
+        27
+      ]
+    },
+    "slowly": {
+      "2": [
+        27
+      ]
+    },
+    "grew": {
+      "2": [
+        27
+      ]
+    },
+    "back": {
+      "2": [
+        27
+      ]
+    },
+    "towards": {
+      "2": [
+        27
+      ]
+    },
+    "vernacular": {
+      "2": [
+        28
+      ]
+    },
+    "thence": {
+      "2": [
+        28
+      ]
+    },
+    "brequ": {
+      "2": [
+        28,
+        30,
+        38,
+        39,
+        40,
+        49
+      ]
+    },
+    "n": {
+      "2": [
+        28,
+        30,
+        38,
+        39,
+        40
+      ]
+    },
+    "used": {
+      "2": [
+        29
+      ]
+    },
+    "only": {
+      "2": [
+        29
+      ]
+    },
+    "for": {
+      "2": [
+        29
+      ],
+      "4": [
+        69
+      ]
+    },
+    "science": {
+      "2": [
+        29
+      ]
+    },
+    "arts": {
+      "2": [
+        29
+      ]
+    },
+    "not": {
+      "2": [
+        29
+      ]
+    },
+    "everyday": {
+      "2": [
+        29
+      ]
+    },
+    "use": {
+      "2": [
+        29
+      ],
+      "4": [
+        68
+      ]
+    },
+    "spoken": {
+      "2": [
+        30
+      ]
+    },
+    "in": {
+      "2": [
+        30,
+        49
+      ],
+      "3": [
+        57
+      ]
+    },
+    "realm": {
+      "2": [
+        30
+      ]
+    },
+    "tsarin": {
+      "2": [
+        30,
+        42,
+        43
+      ]
+    },
+    "tsarein": {
+      "2": [
+        30,
+        49
+      ]
+    },
+    "high": {
+      "2": [
+        31
+      ]
+    },
+    "demotic": {
+      "2": [
+        32
+      ]
+    },
+    "c": {
+      "2": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        45,
+        46,
+        47,
+        48
+      ]
+    },
+    "early": {
+      "2": [
+        34
+      ]
+    },
+    "old": {
+      "2": [
+        34
+      ]
+    },
+    "late": {
+      "2": [
+        35
+      ]
+    },
+    "middle": {
+      "2": [
+        35
+      ]
+    },
+    "koine": {
+      "2": [
+        36
+      ]
+    },
+    "standard": {
+      "2": [
+        36
+      ]
+    },
+    "pre": {
+      "2": [
+        38
+      ]
+    },
+    "archaic": {
+      "2": [
+        39
+      ]
+    },
+    "common": {
+      "2": [
+        40
+      ]
+    },
+    "proto": {
+      "2": [
+        42
+      ]
+    },
+    "classical": {
+      "2": [
+        42
+      ]
+    },
+    "contemporary": {
+      "2": [
+        43
+      ]
+    },
+    "modern": {
+      "2": [
+        43
+      ]
+    },
+    "reformed": {
+      "2": [
+        44
+      ]
+    },
+    "ancient": {
+      "2": [
+        45
+      ]
+    },
+    "solajin": {
+      "2": [
+        45,
+        46,
+        47,
+        48
+      ]
+    },
+    "medieval": {
+      "2": [
+        46
+      ]
+    },
+    "traditional": {
+      "2": [
+        47
+      ]
+    },
+    "new": {
+      "2": [
+        48
+      ]
+    },
+    "located": {
+      "2": [
+        49
+      ]
+    },
+    "solaji": {
+      "2": [
+        49
+      ]
+    },
+    "zhalad": {
+      "2": [
+        49
+      ]
+    },
+    "emotions": {
+      "3": [
+        50,
+        51,
+        58
+      ]
+    },
+    "arise": {
+      "3": [
+        50
+      ]
+    },
+    "when": {
+      "3": [
+        50
+      ]
+    },
+    "being": {
+      "3": [
+        50
+      ]
+    },
+    "sufficiently": {
+      "3": [
+        50
+      ]
+    },
+    "complex": {
+      "3": [
+        50
+      ]
+    },
+    "thought": {
+      "3": [
+        50
+      ]
+    },
+    "thus": {
+      "3": [
+        50
+      ]
+    },
+    "heart": {
+      "3": [
+        50,
+        57
+      ]
+    },
+    "emergent": {
+      "3": [
+        50
+      ]
+    },
+    "phenomenon": {
+      "3": [
+        50
+      ]
+    },
+    "mind": {
+      "3": [
+        50
+      ]
+    },
+    "recognised": {
+      "3": [
+        51
+      ]
+    },
+    "primary": {
+      "3": [
+        51
+      ]
+    },
+    "which": {
+      "3": [
+        51
+      ]
+    },
+    "positive": {
+      "3": [
+        51,
+        52
+      ]
+    },
+    "negative": {
+      "3": [
+        51,
+        52
+      ]
+    },
+    "aspect": {
+      "3": [
+        51
+      ]
+    },
+    "neutral": {
+      "3": [
+        52
+      ]
+    },
+    "zigûtic": {
+      "3": [
+        53
+      ]
+    },
+    "wood": {
+      "3": [
+        53
+      ]
+    },
+    "dread": {
+      "3": [
+        53,
+        59,
+        62
+      ]
+    },
+    "fear": {
+      "3": [
+        53
+      ]
+    },
+    "caution": {
+      "3": [
+        53,
+        63,
+        66
+      ]
+    },
+    "qoltic": {
+      "3": [
+        54
+      ]
+    },
+    "wind": {
+      "3": [
+        54
+      ]
+    },
+    "misery": {
+      "3": [
+        54,
+        63,
+        64
+      ]
+    },
+    "sorrow": {
+      "3": [
+        54
+      ]
+    },
+    "melancholy": {
+      "3": [
+        54,
+        59,
+        60
+      ]
+    },
+    "volzdic": {
+      "3": [
+        55
+      ]
+    },
+    "fire": {
+      "3": [
+        55
+      ]
+    },
+    "anger": {
+      "3": [
+        55,
+        65,
+        66
+      ]
+    },
+    "zeal": {
+      "3": [
+        55
+      ]
+    },
+    "passion": {
+      "3": [
+        55,
+        61,
+        62
+      ]
+    },
+    "vohalic": {
+      "3": [
+        56
+      ]
+    },
+    "water": {
+      "3": [
+        56
+      ]
+    },
+    "complacence": {
+      "3": [
+        56,
+        60,
+        61
+      ]
+    },
+    "contentment": {
+      "3": [
+        56
+      ]
+    },
+    "joy": {
+      "3": [
+        56,
+        64,
+        65
+      ]
+    },
+    "balance": {
+      "3": [
+        57
+      ]
+    },
+    "said": {
+      "3": [
+        57
+      ]
+    },
+    "happy": {
+      "3": [
+        57
+      ]
+    },
+    "affect": {
+      "3": [
+        58
+      ]
+    },
+    "other": {
+      "3": [
+        58
+      ]
+    },
+    "substances": {
+      "3": [
+        58
+      ]
+    },
+    "do": {
+      "3": [
+        58
+      ]
+    },
+    "blocks": {
+      "3": [
+        59,
+        63
+      ]
+    },
+    "evaporates": {
+      "3": [
+        60,
+        64
+      ]
+    },
+    "quenches": {
+      "3": [
+        61,
+        65
+      ]
+    },
+    "burns": {
+      "3": [
+        62,
+        66
+      ]
+    },
+    "sesquidecimal": {
+      "4": [
+        67
+      ]
+    },
+    "balanced": {
+      "4": [
+        68
+      ]
+    },
+    "base": {
+      "4": [
+        68
+      ]
+    },
+    "half": {
+      "4": [
+        68
+      ]
+    },
+    "length": {
+      "4": [
+        68
+      ]
+    },
+    "mantissae": {
+      "4": [
+        68
+      ]
+    },
+    "round": {
+      "4": [
+        68
+      ]
+    },
+    "brackets": {
+      "4": [
+        68
+      ]
+    },
+    "signifying": {
+      "4": [
+        68
+      ]
+    },
+    "repeated": {
+      "4": [
+        68
+      ]
+    },
+    "digits": {
+      "4": [
+        68
+      ]
+    },
+    "square": {
+      "4": [
+        68
+      ]
+    },
+    "mirrored": {
+      "4": [
+        68
+      ]
+    },
+    "example": {
+      "4": [
+        69
+      ]
+    },
+    "½": {
+      "4": [
+        70
+      ]
+    },
+    "=": {
+      "4": [
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        85,
+        87,
+        89,
+        90,
+        91
+      ]
+    },
+    "¼": {
+      "4": [
+        74
+      ]
+    },
+    "⅕": {
+      "4": [
+        76
+      ]
+    },
+    "⅙": {
+      "4": [
+        78
+      ]
+    }
+  },
+  "sentences": [
+    "This is an encyclopedia of knowledge of Tinellb",
+    "Subatomic particles can be divided into material fermions  and the energy-like bosons",
+    "Fermions The fundamental particle making up all fermions is the darill",
+    "These combine to make the four generations of quarks and the corresponding four generations of leptons",
+    "hr2 Generation quarks 1 leptons 2 +⅔ -⅓",
+    "h I up unique down dream electron h II central charm sprial strange muon h III top truth bottom beauty tau h IV left love right rhyme yaon",
+    "Each generation shows the +⅔ charged quark 1  its -⅓ counterpart and the corresponding lepton 2 family",
+    "I up unique / down dream / electron II  centre charm / sprial strange / muon III  top truth / bottom beauty / tau IV left love / right rhyme / yaon",
+    "1 Both the prosaic and poetic names of the quarks are included",
+    "2 Each lepton generation consists of the basic particle with charge 1  and a neutrino with charge 0",
+    "Every fermion has an antiparticle of the opposite charge",
+    "Within the universe named Tinellb there is a planet named Ptoko",
+    "There arose on this world a race of humanoids the Ptokan",
+    "Over millions of years their race evolved and became the dominant force on their planet",
+    "There had been many conflicts small and large throughout their history",
+    "One particularly bloody war had had much of the population brought into it a World War",
+    "The survivors of this war were ruled by a single monarch",
+    "Generations passed",
+    "The people rebuilt their shattered world",
+    "The newest ruler Queen Loren decided to create an international language to promote peace amongst her subjects",
+    "She named this language Lulani after herself",
+    "Despite their shared language as more time went by fractures again showed between nations",
+    "Another world war ensued",
+    "A great weapon was created one that tore apart space&#x2011;time flinging its victims far out into the universe",
+    "One such group were the Fezhl&ecirc;",
+    "They found themselves on an empty world",
+    "The Fezhl&ecirc; tongue evolved independently from Lulani and was later heavily influenced by Zhaladi dialects",
+    "The people that remained on Ptoko slowly grew back towards peace",
+    "Their vernacular evolved into Ptokan and thence into Brequ&egrave;n",
+    "By this time Lulani was used only for science and the arts not for everyday use",
+    "Brequ&egrave;n was spoken in the realm of Brequ&eacute; Tsarin in Tsarein",
+    "High Lulani",
+    "Demotic Lulani",
+    "c7",
+    "c2 Early Fezhl&ecirc; Old Ptokan",
+    "c2 Late Fezhl&ecirc; Middle Ptokan",
+    "c2 Koine Fezhl&ecirc; Standard Ptokan",
+    "c7",
+    "c3 Pre&#x2011;Brequ&egrave;n",
+    "c3 Archaic Brequ&egrave;n",
+    "c3 Common Brequ&egrave;n",
+    "c7",
+    "Proto&#x2011;Zhaladi Classical Tsarin",
+    "Contemporary Zhaladi Modern Tsarin",
+    "Reformed Zhaladi",
+    "c5 Ancient Solajin",
+    "c5 Medieval Solajin",
+    "c5 Traditional Solajin",
+    "c5 New Solajin",
+    "Ptoko is located in Universe Solaji Brequ&eacute; Zhalad Tsarein",
+    "Emotions arise when a being has sufficiently complex thought and thus the heart is an emergent phenomenon of the mind",
+    "There are four recognised primary emotions each of which has a positive and negative aspect",
+    "negative neutral positive",
+    "h zigûtic wood dread fear caution",
+    "h qoltic wind misery sorrow melancholy",
+    "h volzdic fire anger zeal passion",
+    "h vohalic water complacence contentment joy",
+    "A heart in balance is said to be happy",
+    "These emotions affect each other as their corresponding substances do",
+    "dread blocks melancholy",
+    "melancholy evaporates complacence",
+    "complacence quenches passion",
+    "passion burns dread",
+    "caution blocks misery",
+    "misery evaporates joy",
+    "joy quenches anger",
+    "anger burns caution",
+    "sesquidecimal",
+    "The use of a balanced base can half the length of mantissae with round brackets signifying repeated digits and &#91;square brackets&#93; signifying mirrored digits",
+    "For example",
+    "½ = 0",
+    "7",
+    "⅓ = 0",
+    "5",
+    "¼ = 0",
+    "&#91;4&#93;",
+    "⅕ = 0",
+    "3",
+    "⅙ = 0",
+    "2 7",
+    "7 1 = 0",
+    "2",
+    "1 7 1 = 0",
+    "&#91;2&#93;",
+    "1 6 1 = 0",
+    "2 5 1 5 1 = 0",
+    "1 7",
+    "1 4 1 = 0",
+    "157 3 4",
+    "1 3 1 =",
+    "1 2 1 =",
+    "1 1 1 =",
+    "10 1"
+  ],
+  "urls": [
+    "index.html",
+    "particlephysics.html",
+    "tinellb.html",
+    "emotion.html",
+    "mathematics.html"
+  ],
+  "names": [
+    "Tinellbian Encyclopedia",
+    "Particle Physics",
+    "Tinellb",
+    "Emotion",
+    "Mathematics"
+  ]
+}

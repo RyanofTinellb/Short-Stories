@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<p></p>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>
+<p>        Tinellbian Encyclopedia</p>
+    </title>
+<p>    <link rel="stylesheet" type="text/css" href="basic_style.css"></p>
+<p><link rel="stylesheet" type="text/css" href="style.css"></p>
+<p>     <script type="text/javascript"></p>
+<p>let href = window.location.href;</p>
+<p>if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {</p>
+<p>    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");</p>
+<p>    window.location.href = `search.html?${term}&andOr=and`;</p>
+<p>}</p>
+</script>
+<p> <link rel="icon" type="image/png" href="favicon.png"></p>
+<p></p>
+</head>
+<p></p>
+<body>
+    <div class="flex">
+        <div class="nav-pane">
+<p>            <label></p>
+<p>  <input type="checkbox" class="menu"></p>
+<p>  <ul></p>
+<p>  <li class="normal">Tinellbian Encyclopedia</li></p>
+    <div class="javascript">
+<p>      <form id="search"></p>
+<p>        <li class="search"></p>
+<p>          <input type="text" name="term"></p>
+<p>          <button type="submit">Search</button></p>
+<p>        </li></p>
+<p>      </form></p>
+    </div>
+   <div class="links-root">  <ul class="level-1"><li><a href="particlephysics.html">Particle Physics</a></li>
+<p><li><a href="tinellb.html">Tinellb</a></li></p>
+<p><li><a href="emotion.html">Emotion</a></li></p>
+<p><li><a href="mathematics.html">Mathematics</a></li></p>
+</ul>
+   </div></ul></label>
+        </div>
+        <div class="content">
+            <div class="nav-footer"><div>
+<p><a href="http://www.tinellb.com">&uarr; Go to Main Page</a></p>
+</div>
+<p></p>
+<div>
+<p><a href="particlephysics.html">Next page &rarr;</a></p>
+</div>
+</div>
+            <h1>Tinellbian Encyclopedia</h1>
+            <div class="main-contents">['This is an encyclopedia of knowledge of Tinellb.']</div>
+<p>            </p>
+            <div class="nav-footer"><div>
+<p><a href="http://www.tinellb.com">&uarr; Go to Main Page</a></p>
+</div>
+<p></p>
+<div>
+<p><a href="particlephysics.html">Next page &rarr;</a></p>
+</div>
+</div>
+            <div class="copyright">
+<p>                <span class="no-breaks"></p>
+<p>                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.</p>
+<p>                </span></p>
+<p>                <span class="copyright"></p>
+<p>                    Last updated: Saturday, June 1st, 2019.</p>
+<p>                </span></p>
+            </div>
+        </div>
+    </div>
+<p>    <script type="text/javascript"></p>
+<p>        for (elt of document.getElementsByClassName('javascript')) {</p>
+<p>            elt.style.display = "block";</p>
+<p>        }</p>
+<p>        let terms = window.location.href.split("?highlight=")[1];</p>
+<p>        terms = terms.split("+");</p>
+<p>        let loc = document.getElementsByClassName("main-contents")[0];</p>
+<p>        let text = loc.innerHTML;</p>
+<p>        for (term of terms) {</p>
+<p>            const rep = new RegExp(`(^|\\W)(${term})($|\\W)`, "gim");</p>
+<p>            text = text.replace(rep, "$1<highlight>$2</highlight>$3");</p>
+<p>            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");</p>
+<p>            text = text.replace(/(<[^>]*?)<highlight>([^>]*?)<.highlight>([^>]*?>)/g, "$1$2$3");            </p>
+<p>            text = text.replace(/<highlight>/g, "<highlight id=\"searchterm\">");</p>
+<p>        }</p>
+<p>        loc.innerHTML = text;</p>
+<p>        loc = document.getElementsByTagName("h1")[0];</p>
+<p>        loc.innerHTML += " <a href=\"#searchterm\">&rarr;</a>";</p>
+<p>    </script></p>
+</body>
+<p></p>
+</html>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
