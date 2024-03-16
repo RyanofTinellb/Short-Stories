@@ -1,37 +1,18 @@
-{
-  "current": {
-    "position": "1.0",
-    "fontsize": 18,
-    "language": "en: English"
-  },
-  "links": {},
-  "styles": {
-    "default": {
-      "end": "\n",
-      "font": "Garamond",
-      "size": 15,
-      "block": "disabled"
-    },
-    "message": {
-      "key": "M",
-      "size": 12,
-      "colour": "#ff0000"
-    }
-  },
-  "entries": [
-    []
-  ],
-  "assets": {
-    "source": "C:/Users/Ryan/TinellbianLanguages/writings/data/data.src",
-    "searchindex": "C:/Users/Ryan/TinellbianLanguages/writings/data/searching.json"
-  },
-  "templates": {
-    "wholepage": "C:/Users/Ryan/TinellbianLanguages/writings/data/templates/wholepage.tpl",
-    "search": "C:/Users/Ryan/TinellbianLanguages/writings/data/templates/search.tpl"
-  },
-  "locations": {
-    "wholepage": "C:/Users/Ryan/TinellbianLanguages/writings/wholepage.html",
-    "search": "C:/Users/Ryan/TinellbianLanguages/writings/search.html"
-  },
-  "markdown": ""
-}
+assets:
+  searchindex: C:/Users/Ryan/TinellbianLanguages/writings/data/searching.json
+  source: C:/Users/Ryan/TinellbianLanguages/writings/data/data.src
+current:
+  fontsize: 18
+  language: 'en: English'
+  position: '1.0'
+entries:
+- []
+links: {}
+locations:
+  search: C:/Users/Ryan/TinellbianLanguages/writings/search.html
+  wholepage: C:/Users/Ryan/TinellbianLanguages/writings/wholepage.html
+markdown: ''
+styles: C:/Users/Ryan/TinellbianLanguages/writings/data/assets/styles.tag
+templates:
+  search: C:/Users/Ryan/TinellbianLanguages/writings/data/templates/search.tpl
+  wholepage: C:/Users/Ryan/TinellbianLanguages/writings/data/templates/wholepage.tpl
